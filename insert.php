@@ -13,5 +13,5 @@ if(mysqli($conexion,$sql)){
 }else{
     echo "Error: ".$sql."<br>" .mysqli_error($conexion);
 }
-mysqli_close($conexion); //hola jajjka
+mysqli_close($conexion); //hola jajjkdsdsdsda
 ?> 
