@@ -8,6 +8,6 @@
             die("Conexion Fallida".
             $conexion->$conexion->connect_errno);
         } else{
-            echo "Conectado"; //hola jajjkall
+            echo "Conectado"; //hola jajjkallYUSAD
         }
 ?>
